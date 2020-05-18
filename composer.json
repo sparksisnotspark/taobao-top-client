@@ -1,7 +1,7 @@
 {
-    "name": "orzcc/taobao-top-client",
+    "name": "sparksisnotspark/taobao-top-client",
     "type": "library",
-    "description": "Taobao top client(SDK) for laravel",
+    "description": "forked from orzcc 解决laravel7不能用的问题 Taobao top client(SDK) for laravel",
     "keywords": ["taobao", "laravel", "sdk", "api"],
     "homepage": "https://github.com/orzcc/taobao-top-client",
     "license": "MIT",
@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "~5.0",
+        "php": ">=7.1.3",
+        "illuminate/support": "~7.0",
         "graham-campbell/manager": "~4.0"
     },
     "autoload": {
