@@ -3,12 +3,12 @@
     "type": "library",
     "description": "forked from orzcc 解决laravel7不能用的问题 Taobao top client(SDK) for laravel",
     "keywords": ["taobao", "laravel", "sdk", "api"],
-    "homepage": "https://github.com/orzcc/taobao-top-client",
+    "homepage": "https://github.com/sparksisnotspark/taobao-top-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "orzcc",
-            "email": "orzcczh@gmail.com"
+            "name": "sparks",
+            "email": "312790696@qq.com"
         }
     ],
     "require": {
