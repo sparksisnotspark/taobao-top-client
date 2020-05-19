@@ -21,5 +21,15 @@
             "Orzcc\\TopClient\\": "src/",
             "TopClient\\": "src/top/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers":[
+                "Orzcc\\TopClient\\TopClientServiceProvider"
+                ],
+            "aliases": {
+                "TopClient": "Orzcc\\TopClient\\Facades\\TopClient"
+            }
+        }
     }
 }
